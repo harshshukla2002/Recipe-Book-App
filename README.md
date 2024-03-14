@@ -1,27 +1,57 @@
-# RecipeApp
+# Recipe Book App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+> Recipe Book (Recipes platform) is an Angular.js application designed to provide customers with a personalized easy-to-utilize user experience for getting recipes details, edit existing recipes, add their own recipes and set this to shopping list.
 
-## Development server
+> It has 4 modules Authentication, Recipe,Edit Recipes, Add to Shopping List.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Screenshots
 
-## Code scaffolding
+# Homepage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img src='https://i.postimg.cc/HxjT2y3Q/Screenshot-2024-03-14-110446.png'>
 
-## Build
+# Recipe Details Page
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<img src='https://i.postimg.cc/zDncQfMW/Screenshot-2024-03-14-105934.png'>
 
-## Running unit tests
+# Recipe Edit Page
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<img src='https://i.postimg.cc/NM1vbkm2/Screenshot-2024-03-14-110551.png'>
 
-## Running end-to-end tests
+# Create New Recipe Page
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<img src='https://i.postimg.cc/V64DYScH/Screenshot-2024-03-14-110640.png'>
 
-## Further help
+# Login/Signup Page
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<img src='https://i.postimg.cc/Hstbcrvp/Screenshot-2024-03-14-110835.png'>
+
+# Shopping List Page
+
+<img src='https://i.postimg.cc/bNnkgGBc/Screenshot-2024-03-14-110728.png'>
+
+# Features
+
+- User authentication
+- User can select recipes and see details
+- User can add new recipes
+- User can select and add ingredients to shopping list
+
+# Technology used
+
+- Angular
+- TypeScript
+- Bootstrap3
+- Firebase
+
+# Modules
+
+- Login Logout Module
+- Select Recipe Module
+- Set To Shopping List Module
+
+# Lessons Learned
+
+- Gain excessive knowledge on application of Angular.js
+- Gain knowledge on using API.
+- Enjoyed the process of learning and creating the application.
