@@ -1,0 +1,19 @@
+<div
+  class="list-group-item clearfix"
+  style="width: 300px; margin: 10px"
+  [routerLink]="[index]"
+  routerLinkActive="active"
+>
+  <div class="pull-left">
+    <h3 style="width: 130px">{{ recipe.name }}</h3>
+    <p style="width: 130px">{{ recipe.description }}</p>
+  </div>
+  <div class="pull-right">
+    <img
+      src="{{ recipe.imageUrl }}"
+      alt="{{ recipe.name }}"
+      class="img-responsive"
+      style="max-height: 80px"
+    />
+  </div>
+</div>
