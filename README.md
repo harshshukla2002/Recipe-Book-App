@@ -42,7 +42,8 @@
 - Angular
 - TypeScript
 - Bootstrap3
-- Firebase
+- Firebase-auth
+- Firebase-Database
 
 # Modules
 
